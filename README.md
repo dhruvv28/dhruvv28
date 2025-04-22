@@ -18,14 +18,15 @@ A fully functional Reddit clone with subreddit-style communities, post/comment s
 ### 🎬 [Movies App](https://github.com/dhruvv28/Moviesapp)
 A Flutter app that displays top-rated and most viewed movies via IMDB data. Available as an installable APK.
 
-### ⚽ Expected Assists in Football *(ongoing)*
+### ⚽ [Expected Assists in Football](https://github.com/dhruvv28/Expected-Assists_xA)
 Analyzing football match data to calculate expected assists using statistical models and ML.
+
+### 🎮 [DApp for CS:GO](https://github.com/Rea7per-r/NFT-MARKETPLACE)
+Blockchain-based marketplace for CS:GO skins using smart contracts.
 
 ### 🏎️ Video Captioning in F1 *(ongoing)*
 Computer vision + NLP system to generate captions for F1 race videos.
 
-### 🎮 DApp for CS:GO *(ongoing)*
-Blockchain-based marketplace for CS:GO skins using smart contracts.
 
 ---
 
